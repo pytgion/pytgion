@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pytgion
-- 👀 I’m interested in web development and data science.
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on self-taught developers 
 - 📫 You can reach me pytgion@gmail.com 
 
