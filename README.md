@@ -1,7 +1,7 @@
 <img src=header.png>
 
 - 👀 I’m interested in Data Science and Linux.
-- 🌱 I’m currently learning C, pytgon and SQL.
+- 🌱 I’m currently learning C, python and SQL.
 - 💞️ I’m looking to collaborate on self-taught developers 
 - 📫 You can reach me pytgion@gmail.com
 
