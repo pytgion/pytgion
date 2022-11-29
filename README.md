@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @pytgion
-- 👀 I’m interested in Education Sciences and Tech.
-- 🌱 I’m currently learning C and JavaScript.
+<img src=header.png>
+
+- 👀 I’m interested in Data Science and Linux.
+- 🌱 I’m currently learning C, pytgon and SQL.
 - 💞️ I’m looking to collaborate on self-taught developers 
-- 📫 You can reach me pytgion@gmail.com 
+- 📫 You can reach me pytgion@gmail.com or t.me/pytgion
 
 <!---
 pytgion/pytgion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
